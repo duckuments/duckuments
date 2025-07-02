@@ -16,9 +16,9 @@ I am a full-stack developer, my focus is on implementing customers' ideas into s
 
 ## Other
 
-👩‍💻 I'm currently working as `freelancer`
+👩‍💻 I'm currently working as `front-end developer`
 
-🧠 I'm currently learning `mongodb`
+🧠 I'm currently learning `AI/ML`
 
 🤔 I'm looking for help with `design`
 
