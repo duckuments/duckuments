@@ -12,7 +12,7 @@ I am a full-stack developer, my focus is on implementing customers' ideas into s
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,tailwindcss,jquery,nextjs,nodejs,py,django,cs,dotnet,mongodb,git,neovim)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,react,nextjs,json,npm,nodejs,eslint,python,django,djangorestframework,cs,dotnet,api,jwt,huggingface,numpy,ollama,linux,neovim,lazyvim,arch,i3,hyprland,gnome,alacritty,bash,git,github,notion,obsidian&titles=true)
 
 ## Other
 
