@@ -6,7 +6,7 @@ I am a full-stack developer, my focus is on implementing customers' ideas into s
 
 ## 🔗 Links
 
-[![My Resume](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/HirmaanR/resume)
+[![My Resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/HirmaanR/resume)
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://homepage-ten-khaki-12.vercel.app/)
 
